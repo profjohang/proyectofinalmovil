@@ -159,16 +159,10 @@ flutter run -d chrome --web-hostname localhost --web-port 7357
 * Editar producto (con validación de campos).
 * Eliminar producto con confirmación.
 * Manejo de errores y notificaciones (SnackBar).
-
-
-
+  
 ---
 
-
-
 👨‍💻 Autor
-
-
 
 Nombre: Johan Guerrero
 
@@ -176,15 +170,9 @@ Materia: Desarrollo Móvil
 
 Proyecto final — Flutter + .NET
 
-
-
 ---
 
-
-
 📜 Licencia
-
-
 
 Este proyecto es únicamente con fines académicos.
 
