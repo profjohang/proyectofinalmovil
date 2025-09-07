@@ -78,7 +78,7 @@ proyectofinalmovil/
 
 
 
-3.Ejecutar la API:
+3\. Ejecutar la API:
 
 
 
@@ -98,7 +98,7 @@ proyectofinalmovil/
 
 
 
-1. Abrir una terminal en la carpeta frontend/.
+1\. Abrir una terminal en la carpeta frontend/.
 
 
 
