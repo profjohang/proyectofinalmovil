@@ -1,0 +1,46 @@
+# Flutter / Dart
+.dart_tool/
+.packages
+.pub-cache/
+build/
+generated_plugin_registrant.dart
+.flutter-plugins
+.flutter-plugins-dependencies
+.flutter-versions
+
+# IntelliJ / Android Studio / VSCode
+.idea/
+.vscode/
+*.iml
+
+# Android
+android/.gradle/
+android/app/build/
+**/gradle-wrapper.jar
+
+# iOS
+ios/Pods/
+ios/Flutter/Flutter.framework
+ios/.symlinks/
+ios/Flutter/Flutter.podspec
+
+# .NET
+bin/
+obj/
+*.user
+*.vs/
+.vs/
+
+# Logs, temp
+*.log
+*.tmp
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrets (no subir)
+.env
+*.pem
+*.key
